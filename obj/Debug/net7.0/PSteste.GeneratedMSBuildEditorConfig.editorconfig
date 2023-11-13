@@ -9,85 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PSteste
 build_property.RootNamespace = PSteste
-build_property.ProjectDir = C:\CRUD\PSteste\
+build_property.ProjectDir = C:\ProgramaWeb\PSteste\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\CRUD\PSteste
+build_property.MSBuildProjectDirectory = C:\ProgramaWeb\PSteste
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/CRUD/PSteste/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/ProgramaWeb/PSteste/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Error.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Index.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Premiums/Create.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Premiums/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Premiums/Delete.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Premiums/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Premiums/Details.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Premiums/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Premiums/Edit.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Premiums/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Premiums/Index.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Premiums/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Privacy.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Shared/_LoginPartial.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Students/Create.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Students/Delete.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Students/Details.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Students/Edit.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Students/Index.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/_ViewImports.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/_ViewStart.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CRUD/PSteste/Pages/Shared/_Layout.cshtml]
+[C:/ProgramaWeb/PSteste/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a90eqnrp0p
