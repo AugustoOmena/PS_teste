@@ -11116,19 +11116,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sdero\\.nuget\\packages\\": {}
+    "C:\\Users\\guguo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProgramaWeb\\PSteste\\PSteste.csproj",
+      "projectUniqueName": "C:\\Users\\guguo\\Git\\PSteste\\PSteste.csproj",
       "projectName": "PSteste",
-      "projectPath": "C:\\ProgramaWeb\\PSteste\\PSteste.csproj",
-      "packagesPath": "C:\\Users\\sdero\\.nuget\\packages\\",
-      "outputPath": "C:\\ProgramaWeb\\PSteste\\obj\\",
+      "projectPath": "C:\\Users\\guguo\\Git\\PSteste\\PSteste.csproj",
+      "packagesPath": "C:\\Users\\guguo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\guguo\\Git\\PSteste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sdero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\guguo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11198,7 +11198,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
