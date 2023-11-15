@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8Mzwbwrh37WuAD0cliwcdnWvcKSQnVWMcxue7RmtPCs=",
+  "Hash": "p4LneUgTnf1jn/Lyj0V4pqn+kuEw+llWR2wOvLqgoVg=",
   "Source": "PSteste",
   "BasePath": "_content/PSteste",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\cinza.png"
+    },
+    {
+      "Identity": "C:\\Users\\guguo\\Git\\PSteste\\wwwroot\\img\\LogoLinha.png",
+      "SourceId": "PSteste",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guguo\\Git\\PSteste\\wwwroot\\",
+      "BasePath": "_content/PSteste",
+      "RelativePath": "img/LogoLinha.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\LogoLinha.png"
     },
     {
       "Identity": "C:\\Users\\guguo\\Git\\PSteste\\wwwroot\\img\\LogoPrincipalRetangulo.png",

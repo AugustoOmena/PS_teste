@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\guguo\\Git\\PSteste\\wwwroot\\img\\LogoLinha.png",
+      "PackagePath": "staticwebassets\\img\\LogoLinha.png"
+    },
+    {
       "Id": "C:\\Users\\guguo\\Git\\PSteste\\wwwroot\\img\\LogoPrincipalRetangulo.png",
       "PackagePath": "staticwebassets\\img\\LogoPrincipalRetangulo.png"
     },
