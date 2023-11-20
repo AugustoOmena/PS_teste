@@ -69,3 +69,46 @@ img.categoria {
   }
 }
 
+/*Servicos Destaque*/
+
+img.ServicosDestaque {
+  max-width: 90%;
+  display: block;
+  border-radius: 7px;
+  margin: 10px auto 0;
+}
+
+.flexServicosDestaque {
+  display: flex;
+  max-width: 990px;
+  margin: 0 auto;
+}
+
+.flexServicosDestaque > div {
+  flex: 1 1 60px;;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  height: 250px;
+}
+
+.flexServicosDestaque > div:hover {
+  background-color: rgb(248, 245, 245);
+}
+
+
+@media (max-width: 768px) {
+  .flexServicosDestaque > div {
+    height: 155px;
+}
+}
+
+@media (max-width: 350px) {
+  .SDestaque {
+    position: absolute;
+    visibility: hidden;
+  }
+}
