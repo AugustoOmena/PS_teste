@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJom0z45Rnkr0Z6OpN0qViLfCTbqQZTZ/RD8d21MNi7wBiu1Jm0fwqC4ycNEBXkWe9erNFWjPV8fIVOgpJ0M8g==",
+  "dgSpecHash": "TkdKPDBd3FPzxw6INQhcthEwS0e7XraN1f1dDKgePsgm03Qo7W7jQ0BbiKsIZgxfPcdkLsNuZ4ziZb8pHIAa3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guguo\\Source\\Repos\\PSteste_0\\PSteste.csproj",
+  "projectFilePath": "C:\\Users\\guguo\\source\\repos\\PStesteBeta\\PSteste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guguo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\guguo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

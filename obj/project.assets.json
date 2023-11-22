@@ -11984,11 +11984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guguo\\Source\\Repos\\PSteste_0\\PSteste.csproj",
+      "projectUniqueName": "C:\\Users\\guguo\\Source\\Repos\\PStesteBeta\\PSteste.csproj",
       "projectName": "PSteste",
-      "projectPath": "C:\\Users\\guguo\\Source\\Repos\\PSteste_0\\PSteste.csproj",
+      "projectPath": "C:\\Users\\guguo\\Source\\Repos\\PStesteBeta\\PSteste.csproj",
       "packagesPath": "C:\\Users\\guguo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guguo\\Source\\Repos\\PSteste_0\\obj\\",
+      "outputPath": "C:\\Users\\guguo\\Source\\Repos\\PStesteBeta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guguo\\AppData\\Roaming\\NuGet\\NuGet.Config",
