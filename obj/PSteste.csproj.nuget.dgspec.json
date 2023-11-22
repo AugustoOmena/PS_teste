@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guguo\\source\\repos\\PStesteBeta\\PSteste.csproj": {}
+    "C:\\Users\\sdero\\source\\repos\\PStesteBeta\\PSteste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guguo\\source\\repos\\PStesteBeta\\PSteste.csproj": {
+    "C:\\Users\\sdero\\source\\repos\\PStesteBeta\\PSteste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guguo\\source\\repos\\PStesteBeta\\PSteste.csproj",
+        "projectUniqueName": "C:\\Users\\sdero\\source\\repos\\PStesteBeta\\PSteste.csproj",
         "projectName": "PSteste",
-        "projectPath": "C:\\Users\\guguo\\source\\repos\\PStesteBeta\\PSteste.csproj",
-        "packagesPath": "C:\\Users\\guguo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guguo\\source\\repos\\PStesteBeta\\obj\\",
+        "projectPath": "C:\\Users\\sdero\\source\\repos\\PStesteBeta\\PSteste.csproj",
+        "packagesPath": "C:\\Users\\sdero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdero\\source\\repos\\PStesteBeta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guguo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sdero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,9 +14,38 @@
 <div class="BarraDePesquisa">
     <span style="color:#6c757d; padding: 7px;" class="material-symbols-outlined">
         search
-    </span>    <input type="text" placeholder="Pesquisar Serviços">
-    <button type="submit">Categorias</button>
+    </span>
+    <input type="text" id="searchInput" placeholder="Pesquisar Serviços">
+    <span style="color:#6c757d; padding: 7px; display: none;" class="material-symbols-outlined" id="closeIcon" title="Limpar">
+        close
+    </span>
+    <span style="color:#6c757d; padding: 7px;" class="material-symbols-outlined" title="Categorias">
+        category
+    </span>
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const searchInput = document.getElementById('searchInput');
+        const closeIcon = document.getElementById('closeIcon');
+
+        function updateCloseIcon() {
+            if (searchInput.value.trim() !== '') {
+                closeIcon.style.display = 'inline-block';
+            } else {
+                closeIcon.style.display = 'none';
+            }
+        }
+
+        searchInput.addEventListener('input', updateCloseIcon);
+        searchInput.addEventListener('focus', updateCloseIcon);
+
+        closeIcon.addEventListener('click', function () {
+            searchInput.value = '';
+            closeIcon.style.display = 'none';
+        });
+    });
+</script>
 
 
 <section style="margin-top: 2vh;" class="flex">
