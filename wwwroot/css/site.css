@@ -37,7 +37,7 @@ img.categoria {
 }
 
 .flex > div {
-  flex: 1 1 60px;;
+  flex: 1 1 60px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -102,7 +102,8 @@ img.ServicosDestaque {
 @media (max-width: 768px) {
   .flexServicosDestaque > div {
     height: 155px;
-}
+      width: 100%;
+    }
 }
 
 @media (max-width: 350px) {
@@ -111,3 +112,46 @@ img.ServicosDestaque {
     visibility: hidden;
   }
 }
+
+/*barra de pesquisa*/
+.BarraDePesquisa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    width: 800px;
+    margin: auto;
+}
+
+    .BarraDePesquisa input {
+        flex: 1;
+        border: none;
+        padding: 8px;
+        font-size: 16px;
+    }
+
+    .BarraDePesquisa button {
+        background-color: #4285f4;
+        color: #fff;
+        border: none;
+        padding: 8px 15px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .BarraDePesquisa input:focus {
+        outline: none;
+    }
+
+@media screen and (max-width: 1000px) {
+    .BarraDePesquisa {
+        width: 100%;
+        max-width: none; /* Remove a largura máxima para ocupar toda a largura da tela */
+    }
+        .BarraDePesquisa input {
+            width: 100%;
+            max-width: none; /* Remove a largura máxima para ocupar toda a largura da tela */
+        }
+}
+

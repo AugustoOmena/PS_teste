@@ -3,14 +3,23 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 
 <div class="text-center">
     <!--<h1 class="display-4">Welcome</h1>-->
-    <img class="img-fluid" width="270px" style="margin-top: 8vh; user-select: none;" src="img/LogoPrincipalRetangulo.png" alt="Logo" draggable="false">
+    <img class="img-fluid" width="270px" style="margin-top: 6vh; margin-bottom: 2vh; user-select: none;" src="img/LogoPrincipalRetangulo.png" alt="Logo" draggable="false">
     @* <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
 </div>
 
-<section class="flex">
+<div class="BarraDePesquisa">
+    <span style="color:#6c757d; padding: 7px;" class="material-symbols-outlined">
+        search
+    </span>    <input type="text" placeholder="Pesquisar Serviços">
+    <button type="submit">Categorias</button>
+</div>
+
+
+<section style="margin-top: 2vh;" class="flex">
     <div>
         <img class="categoria" src="img/cinza.png" alt="Cat">
         <p>Categoria</p>
@@ -36,7 +45,7 @@
         <p>Categoria</p>
     </div>
 </section>
-<section class="flex">
+<section style="margin-bottom: 2vh" class="flex">
     <div>
         <img class="categoria" src="img/cinza.png" alt="Cat">
         <p>Categoria</p>
