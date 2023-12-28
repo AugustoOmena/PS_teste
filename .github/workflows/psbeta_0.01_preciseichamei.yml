@@ -54,4 +54,4 @@ jobs:
           app-name: 'PreciseiChamei'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3D7CCB7376E492192067501B8F657C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7989F09250A5424FBE42001DC9763EEF }}
